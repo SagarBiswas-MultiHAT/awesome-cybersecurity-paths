@@ -20,5 +20,5 @@ jobs:
       - name: Check External Links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --timeout 15 --max-retries 2 'readme.md' 'TRACKER.md' 'CONTRIBUTING.md'
+          args: --verbose --no-progress --timeout 15 --max-retries 2 'readme.md' 'TRACKER.md' '.github/SECURITY.md' 'CODE_OF_CONDUCT.md' '.github/CONTRIBUTING.md' 'chapters/*.md'
           fail: false

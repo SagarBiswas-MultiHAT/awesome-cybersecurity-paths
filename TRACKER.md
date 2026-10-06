@@ -46,18 +46,18 @@ Practical hands-on experience is mandatory for security hiring:
 Select your primary direction and work through the key specializations detailed in the handbook:
 
 ### Path A: Offensive Security (Red Team / Pen Testing)
-- [ ] Complete Network Penetration Testing fundamentals (Section 2.1.1)
-- [ ] Master Web Application Penetration Testing and OWASP Top 10 (Section 2.1.3)
+- [ ] Complete Network Penetration Testing fundamentals ([Section 2.1.1](chapters/04-chapter-2.md#211-network-penetration-testing))
+- [ ] Master Web Application Penetration Testing and OWASP Top 10 ([Section 2.1.3](chapters/04-chapter-2.md#213-web-application-penetration-testing))
 - [ ] Practice privilege escalation techniques on Linux and Windows
 - [ ] Understand Active Directory attack paths (Kerberoasting, AS-REP roasting, DCSync)
 - [ ] Review the Red Team Operation Lifecycle diagram (`media/5. Red Team Operation Lifecycle.svg`)
 - [ ] Target Certification: eJPT, PNPT, or OSCP
 
 ### Path B: Defensive Security (Blue Team / SOC / DFIR)
-- [ ] Learn Security Operations Center (SOC) alert triage and log analysis (Section 3.1.5)
+- [ ] Learn Security Operations Center (SOC) alert triage and log analysis ([Section 3.1.5](chapters/05-chapter-3.md#315-security-operations-soc))
 - [ ] Master SIEM querying with Splunk (SPL) or Elastic (KQL)
 - [ ] Understand Endpoint Detection and Response (EDR) telemetry and alert triage
-- [ ] Practice Digital Forensics and Incident Response (DFIR) artifact analysis (Section 3.2.1)
+- [ ] Practice Digital Forensics and Incident Response (DFIR) artifact analysis ([Section 3.2.1](chapters/05-chapter-3.md#321-digital-forensics))
 - [ ] Review the Incident Response Lifecycle diagram (`media/6. The Incident Response Lifecycle.svg`)
 - [ ] Target Certification: CompTIA Security+, BTL1, or SC-200
 

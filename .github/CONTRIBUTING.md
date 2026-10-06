@@ -38,7 +38,7 @@ To keep the handbook consistent, every role must follow the standard 7-part form
    ```bash
    git checkout -b update/add-threat-hunting-tools
    ```
-3. Make your modifications directly in `readme.md` or the appropriate document.
+3. Make your modifications in the relevant document under `chapters/`, `TRACKER.md`, or `README.md`.
 4. Verify all markdown formatting, tables, and links render properly.
 5. Submit a Pull Request with a clear description of what you changed and why.
 
