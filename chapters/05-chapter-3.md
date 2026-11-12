@@ -1176,6 +1176,7 @@ Threat Intelligence is the discipline of collecting, analyzing, and operationali
 | Maltego | Visual link analysis and relationship mapping for attribution and infrastructure pivoting | Intermediate |
 | Shodan / Censys | Internet scanning enabling attacker infrastructure identification and pivoting | Foundational |
 | MITRE ATT&CK Navigator | Mapping findings to adversary TTPs and visualizing defensive coverage gaps | Foundational |
+| [ICHI](https://ichi.global) | Free daily barometer of overall Internet cyber health; outside-in signal aggregating threat feeds, vulnerability data, and attack telemetry | Foundational |
 
 </div>
 
