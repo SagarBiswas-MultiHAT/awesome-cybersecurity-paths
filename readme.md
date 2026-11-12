@@ -16,6 +16,7 @@
 [![Open Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/awesome-cybersecurity-paths?style=for-the-badge&color=orange)](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths/issues)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](.github/CONTRIBUTING.md)
+[![Sponsor SagarBiswas-MultiHAT on Polar.sh](https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
 <br>
 [![Roles Covered](https://img.shields.io/badge/Roles-36%20Specializations-blueviolet?style=for-the-badge)](#table-of-contents)
 [![Curated Tools](https://img.shields.io/badge/Tools-150%2B%20Curated-2ea44f?style=for-the-badge)](chapters/08-appendices.md#appendix-b-consolidated-tools-reference)
@@ -38,6 +39,7 @@
 **[🗺️ Certification Roadmaps](chapters/08-appendices.md#appendix-a-certification-roadmap-by-domain)** &nbsp;|&nbsp;
 **[🛠️ Tools Reference](chapters/08-appendices.md#appendix-b-consolidated-tools-reference)** &nbsp;|&nbsp;
 **[❓ FAQ](#faq)** &nbsp;|&nbsp;
+**[💙 Support](#support-multihat-open-source)** &nbsp;|&nbsp;
 **[🤝 Contributing](.github/CONTRIBUTING.md)**
 
 </div>
@@ -421,6 +423,17 @@ This handbook is intended for educational and professional development purposes 
 The tools, techniques, and methodologies described in the offensive security chapters are presented solely in the context of authorized, ethical security testing. Unauthorized testing of computer systems, networks, or applications is illegal in virtually all jurisdictions regardless of intent. Readers are solely responsible for ensuring that any security testing activities they undertake are conducted with explicit, written authorization from the system owner.
 
 All trademarks, product names, and company names mentioned in this handbook are the property of their respective owners. Mention of a product or organization does not constitute endorsement.
+
+---
+
+<a id="support-multihat-open-source"></a>
+## 💙 Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
 
 ---
 
